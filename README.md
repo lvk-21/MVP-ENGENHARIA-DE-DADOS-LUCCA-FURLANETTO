@@ -48,6 +48,8 @@ Os dados utilizados são provenientes do **Portal de Dados Abertos da Polícia R
 
 Foram selecionados os anos completos de 2021 a 2025. O ano de 2026 não foi utilizado por ainda estar em andamento, evitando comparar anos completos com um período parcial.
 
+Os dados são disponibilizados pela PRF como dados abertos, permitindo seu uso, reutilização e redistribuição.
+
 ## 2.1 Arquivos utilizados
 
 | Arquivo | Registros |
@@ -682,7 +684,6 @@ De forma geral, o MVP permitiu aplicar na prática conceitos de ingestão, trata
 - Python
 - PySpark
 - Apache Spark
-- Spark SQL
 - Databricks Free Edition
 - Delta Lake
 - Unity Catalog
@@ -691,3 +692,9 @@ De forma geral, o MVP permitiu aplicar na prática conceitos de ingestão, trata
 - Markdown
 
 ---
+
+# 11. Referências
+
+- [Polícia Rodoviária Federal — Dados Abertos da PRF](https://www.gov.br/prf/pt-br/acesso-a-informacao/dados-abertos/dados-abertos-da-prf)
+- [Polícia Rodoviária Federal — Dicionário de Dados de Acidentes](https://www.gov.br/prf/pt-br/acesso-a-informacao/dados-abertos/dicionario-acidentes)
+- [Databricks](https://www.databricks.com/)
